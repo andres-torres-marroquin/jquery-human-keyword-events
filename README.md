@@ -24,7 +24,7 @@ First, load jQuery and then the plugin:
 
 ```html
 <script src="jquery.min.js" type="text/javascript"></script>
-<script src="jquery.keyevents.js" type="text/javascript"></script>
+<script src="jquery.human-keyword-events.js" type="text/javascript"></script>
 ```
 
 
